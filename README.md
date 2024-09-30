@@ -23,4 +23,4 @@
 16. mv myfile.txt myfirstproject/data/ -------------- to move file from one place to another (myfirstproject/data/) is my destination/source
     
 17. mv myfirstproject myfirst_renamedproject ----------- to rename my file (myfirstproject (oldname) to myfirst_renamedproject2 (newname)
-18.      
+18.      exit ----- to logout

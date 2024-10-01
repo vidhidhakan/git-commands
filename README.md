@@ -23,4 +23,14 @@
 16. mv myfile.txt myfirstproject/data/ -------------- to move file from one place to another (myfirstproject/data/) is my destination/source
     
 17. mv myfirstproject myfirst_renamedproject ----------- to rename my file (myfirstproject (oldname) to myfirst_renamedproject2 (newname)
-18.      exit ----- to logout
+18. exit ----- to logout
+    
+19. CAT CONCEPT
+  create new file =================== cat newfile.txt ============= ctrl+d =============== ls ============ cat newfile.txt
+  copy file ========================= cat newfile.txt > copyofnewfile.txt ================= ls 
+  concat =========================== cat newfile2.txt === ls ===== cat newfile.txt cat newfile2.txt > newfile3.txt ====== ls=== cat newfile3.txt
+
+
+    
+  
+  

@@ -30,7 +30,6 @@
 21.  copy file ========================= cat newfile.txt > copyofnewfile.txt ================= ls
 22.  concat =========================== cat newfile2.txt === ls ===== cat newfile.txt cat newfile2.txt > newfile3.txt ====== ls=== cat newfile3.txt
 
-
-  -------------------------------------------------------------------------------------------------------  THE END 
+                                                                                     THE END 
   
   
